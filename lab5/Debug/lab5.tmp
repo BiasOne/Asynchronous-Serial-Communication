@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\atxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\Debug\lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab5.map</FILE>
+  <FILE>lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>12</LINE></main>
+  <USART_INIT><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>103</LINE></USART_INIT>
+  <REPEAT><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>29</LINE></REPEAT>
+  <RESET><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>90</LINE></RESET>
+  <LOOP><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>32</LINE></LOOP>
+  <IN_STRING><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>64</LINE></IN_STRING>
+  <end><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>36</LINE></end>
+  <OUT_CHAR><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>40</LINE></OUT_CHAR>
+  <TX_POLL><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>43</LINE></TX_POLL>
+  <IN_CHAR><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>54</LINE></IN_CHAR>
+  <RX_POLL><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>56</LINE></RX_POLL>
+  <BACKSPACE><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>95</LINE></BACKSPACE>
+  <OUT_STRING><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>77</LINE></OUT_STRING>
+  <STRING_OUT><FILE>C:\Users\josep\OneDrive\Documents\MicroP\Labs\lab5\lab5\lab5\lab5_6.asm</FILE><LINE>82</LINE></STRING_OUT>
+ </LABELS>
+</ASSEMBLER_INFO>
